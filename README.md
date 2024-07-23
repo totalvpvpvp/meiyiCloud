@@ -16,7 +16,7 @@
 
 适用于bronze套餐月付：HappyLunarNewYear-100%off
 
-## 美易Cloud价格1
+## 美易Cloud价格11
 
 |套餐|bronze|silver|gold|
 |----|----|----|----|
